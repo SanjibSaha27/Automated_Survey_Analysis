@@ -1,4 +1,4 @@
-
+Python script for Automated Survey Analysis using Pandas to analyze survey data, demonstrating reading survey data, performing statistical analysis, and generating insights automatically. The results are documented and output for enhanced accessibility.
 
 **Key Features:**
 
