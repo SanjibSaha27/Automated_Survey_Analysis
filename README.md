@@ -11,3 +11,7 @@ Python script for Automated Survey Analysis using Pandas to analyze survey data,
 **Visualization:** Generates and saves visual output for enhanced accessibility.
 
 **Report Generation:** Creates a comprehensive report summarizing the process and results.
+
+## ⚠️ Usage Notice
+This project is for educational and portfolio purposes only.  
+Please do not copy or reuse this code without proper attribution.
